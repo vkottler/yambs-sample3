@@ -1,0 +1,8 @@
+---
+name: yambs-sample3
+description: A sample project for testing.
+
+version:
+  major: 0
+  minor: 1
+  patch: 0
