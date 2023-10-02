@@ -1,9 +1,9 @@
 #pragma once
 
-namespace Example
+namespace Sample3
 {
 
 void method1(void);
 void method2(void);
 
-} // namespace Example
+} // namespace Sample3
